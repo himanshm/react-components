@@ -1,9 +1,11 @@
+import DisplayRating from './pages/DisplayRating';
+
 function App() {
   return (
     <>
-       App
+      <DisplayRating />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
